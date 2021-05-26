@@ -1,1 +1,1 @@
-This is to Explore Git.
+1. This is to Explore Git.
